@@ -1,0 +1,109 @@
+IPEDS Race ID,IPEDS Race,Year,Completions,share
+"white","White",2014,3955,0.46295212454641227
+"white","White",2015,3442,0.4568622245818954
+"white","White",2016,2657,0.4246443982739332
+"white","White",2023,2272,0.4756123089805317
+"white","White",2017,2240,0.43741456746729157
+"white","White",2022,2177,0.484531493434231
+"white","White",2021,1881,0.45118733509234826
+"white","White",2018,1870,0.4153709462461128
+"unknown","Unknown",2014,1820,0.2130399157204729
+"white","White",2019,1630,0.43688019297775393
+"white","White",2020,1530,0.441049293744595
+"unknown","Unknown",2015,1439,0.19100079638970002
+"black","Black or African American",2014,1289,0.15088376448554372
+"black","Black or African American",2015,1251,0.16604725245553492
+"white","White",2013,1219,0.6031667491340921
+"black","Black or African American",2016,1128,0.18027808854083427
+"unknown","Unknown",2016,1085,0.17340578552021735
+"white","White",2012,1074,0.6280701754385964
+"hispanic","Hispanic or Latino",2023,1027,0.21498848649780197
+"black","Black or African American",2017,1027,0.20054676820933412
+"hispanic","Hispanic or Latino",2022,966,0.21500111284219897
+"black","Black or African American",2018,953,0.21168369613505109
+"hispanic","Hispanic or Latino",2021,952,0.22835212281122572
+"hispanic","Hispanic or Latino",2014,920,0.10769050684771157
+"hispanic","Hispanic or Latino",2015,911,0.12091850278736395
+"hispanic","Hispanic or Latino",2016,808,0.1291353683874061
+"hispanic","Hispanic or Latino",2017,807,0.15758640890451084
+"hispanic","Hispanic or Latino",2020,747,0.21533583165177284
+"hispanic","Hispanic or Latino",2018,732,0.1625944024877832
+"hispanic","Hispanic or Latino",2019,687,0.1841329402305012
+"black","Black or African American",2019,629,0.16858751005092468
+"unknown","Unknown",2017,626,0.12224174965826987
+"unknown","Unknown",2018,551,0.12239004886717014
+"black","Black or African American",2021,540,0.1295274646198129
+"black","Black or African American",2023,508,0.10634289302909776
+"black","Black or African American",2020,496,0.14298068607667916
+"black","Black or African American",2022,490,0.10905853549966615
+"unknown","Unknown",2019,406,0.10881801125703565
+"multiracial","Two or More Races",2016,354,0.056576634169729904
+"nonresident","Non-resident Alien",2023,341,0.07138371362779987
+"black","Black or African American",2013,290,0.14349332013854527
+"asian","Asian",2023,275,0.05756751099016119
+"asian","Asian",2022,255,0.05675495214778544
+"unknown","Unknown",2021,248,0.05948668745502519
+"unknown","Unknown",2020,245,0.07062554050158547
+"nonresident","Non-resident Alien",2022,229,0.05096817271310928
+"asian","Asian",2021,207,0.04965219477092828
+"multiracial","Two or More Races",2017,206,0.0402265182581527
+"hispanic","Hispanic or Latino",2013,203,0.10044532409698169
+"hispanic","Hispanic or Latino",2012,201,0.11754385964912281
+"multiracial","Two or More Races",2015,196,0.026015396867533847
+"black","Black or African American",2012,195,0.11403508771929824
+"multiracial","Two or More Races",2023,188,0.039355243876910195
+"multiracial","Two or More Races",2014,182,0.02130399157204729
+"unknown","Unknown",2022,181,0.040284887602937906
+"multiracial","Two or More Races",2018,174,0.03864948911594847
+"multiracial","Two or More Races",2022,159,0.03538838192744269
+"nonresident","Non-resident Alien",2021,157,0.03765891100983449
+"nonresident","Non-resident Alien",2014,155,0.01814350930586445
+"nonresident","Non-resident Alien",2020,152,0.04381666186220813
+"asian","Asian",2020,145,0.04179878927644855
+"multiracial","Two or More Races",2021,145,0.034780522907171985
+"unknown","Unknown",2013,142,0.070262246412667
+"unknown","Unknown",2023,135,0.02826041448607913
+"multiracial","Two or More Races",2019,135,0.03618332886625569
+"asian","Asian",2014,123,0.014397752545944048
+"multiracial","Two or More Races",2020,122,0.035168636494667053
+"unknown","Unknown",2012,114,0.06666666666666667
+"asian","Asian",2019,108,0.028946663093004556
+"asian","Asian",2015,103,0.013671356517122379
+"nonresident","Non-resident Alien",2015,98,0.013007698433766923
+"nonresident","Non-resident Alien",2019,98,0.02626641651031895
+"asian","Asian",2018,93,0.020657485561972458
+"nonresident","Non-resident Alien",2016,87,0.01390442704171328
+"asian","Asian",2017,86,0.016793595000976373
+"asian","Asian",2016,85,0.013584785040754355
+"nonresident","Non-resident Alien",2018,85,0.018880497556641493
+"nonresident","Non-resident Alien",2017,67,0.013083382151923452
+"native","American Indian or Alaska Native",2014,66,0.00772562331733583
+"asian","Asian",2013,59,0.029193468579910935
+"multiracial","Two or More Races",2013,58,0.028698664027709056
+"native","American Indian or Alaska Native",2015,56,0.007432970533581099
+"asian","Asian",2012,41,0.023976608187134502
+"multiracial","Two or More Races",2012,40,0.023391812865497075
+"hawaiian","Native Hawaiian or Other Pacific Islanders",2015,38,0.00504380143350146
+"hawaiian","Native Hawaiian or Other Pacific Islanders",2014,33,0.003862811658667915
+"hawaiian","Native Hawaiian or Other Pacific Islanders",2017,32,0.006248779535247022
+"native","American Indian or Alaska Native",2017,30,0.005858230814294083
+"native","American Indian or Alaska Native",2021,28,0.006716238906212521
+"hawaiian","Native Hawaiian or Other Pacific Islanders",2016,28,0.004474988013424964
+"native","American Indian or Alaska Native",2018,25,0.005553087516659262
+"native","American Indian or Alaska Native",2016,25,0.003995525011986575
+"nonresident","Non-resident Alien",2012,24,0.014035087719298246
+"native","American Indian or Alaska Native",2022,22,0.004896505675495215
+"native","American Indian or Alaska Native",2020,22,0.006341885269530124
+"native","American Indian or Alaska Native",2019,21,0.005628517823639775
+"native","American Indian or Alaska Native",2013,20,0.009896091044037604
+"hawaiian","Native Hawaiian or Other Pacific Islanders",2018,19,0.004220346512661039
+"nonresident","Non-resident Alien",2013,19,0.009401286491835725
+"native","American Indian or Alaska Native",2023,19,0.003977391668411137
+"native","American Indian or Alaska Native",2012,19,0.011111111111111112
+"hawaiian","Native Hawaiian or Other Pacific Islanders",2019,17,0.004556419190565532
+"hawaiian","Native Hawaiian or Other Pacific Islanders",2022,14,0.0031159581571333183
+"hawaiian","Native Hawaiian or Other Pacific Islanders",2023,12,0.0025120368432070338
+"hawaiian","Native Hawaiian or Other Pacific Islanders",2021,11,0.002638522427440633
+"hawaiian","Native Hawaiian or Other Pacific Islanders",2013,11,0.0054428500742206825
+"hawaiian","Native Hawaiian or Other Pacific Islanders",2020,10,0.0028826751225136927
+"hawaiian","Native Hawaiian or Other Pacific Islanders",2012,2,0.0011695906432748538
